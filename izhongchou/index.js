@@ -5,7 +5,7 @@
 // @description  狗日的迅雷耍猴，玩客云抢了几天没抢到，没办法撸了个脚本半自动抢，果真抢到了。我不是黄牛撸1个就够，共享出来大家玩下。注意：我不是前端程序员，代码Low不许喷。
 // @author       查理
 // @match        https://izhongchou.taobao.com/dreamdetail.htm?id=*
-// @require      http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js
+// @require      https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js
 // @grant        none
 // ==/UserScript==
 
